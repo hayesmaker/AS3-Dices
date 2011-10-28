@@ -1,0 +1,16 @@
+OK Hai!
+
+This is my AS3 Dice animations project.
+
+Goals: Provide a dynamic and fast totally customisable Dice animation for use in games or whatever else you might want to throw dices for.
+
+This project is uses:
+Actionscript 3 - The language
+Stage3D - Adobe's low level 3D api for offloading heavy maths calculations to the GPU.
+Away3D - A nice high level 3d Framework so I don't have to learn the low level shit.
+Jiglib - A physics engine ported to AS3.
+
+Setup instructions:
+Coming.
+
+
